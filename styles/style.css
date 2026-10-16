@@ -104,6 +104,7 @@ body{
     height: 482px;
     border-radius: 16px;
     object-fit: cover;
+    object-position: top;
 }
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor--hover);
